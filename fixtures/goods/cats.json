@@ -1,0 +1,50 @@
+[
+    {
+        "model": "goods.categories",
+        "pk": 4,
+        "fields": {
+            "name": "┬ёх ЄютрЁ√",
+            "slug": "all"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 5,
+        "fields": {
+            "name": "╩єїэ ",
+            "slug": "kuhnya"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 6,
+        "fields": {
+            "name": "╤яры№э ",
+            "slug": "spalnya"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 7,
+        "fields": {
+            "name": "├юёЄшэр ",
+            "slug": "gostinaya"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 8,
+        "fields": {
+            "name": "─хъюЁ",
+            "slug": "dekor"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 9,
+        "fields": {
+            "name": "╬Їшё",
+            "slug": "ofis"
+        }
+    }
+]

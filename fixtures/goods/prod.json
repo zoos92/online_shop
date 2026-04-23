@@ -1,0 +1,114 @@
+[
+    {
+        "model": "goods.products",
+        "pk": 1,
+        "fields": {
+            "name": "╫рщэ√щ ёЄюышъ ш ЄЁш ёЄєыр",
+            "slug": "chajnyj-stolik-i-tri-stula",
+            "description": "╩юьяыхъЄ шч ЄЁ╕ї ёЄєы№хт ш фшчрщэхЁёъшщ ёЄюышъ фы  уюёЄшээющ ъюьэрЄ√.",
+            "image": "",
+            "price": "150.00",
+            "discount": "0.00",
+            "quantity": 9,
+            "category": 7
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 2,
+        "fields": {
+            "name": "╫рщэ√щ ёЄюышъ ш фтр ёЄєыр",
+            "slug": "chajnyj-stolik-i-dva-stula",
+            "description": "═рсюЁ шч ёЄюыр ш фтєї ёЄєы№хт т ьшэшьрышёЄшўхёъюь ёЄшых.",
+            "image": "",
+            "price": "93.00",
+            "discount": "0.00",
+            "quantity": 5,
+            "category": 7
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 3,
+        "fields": {
+            "name": "─тєїёяры№эр  ъЁютрЄ№",
+            "slug": "dvuhspalnaya-krovat",
+            "description": "╩ЁютрЄ№ фтєїёяры№эр  ё эрфуюыютэшъюь ш тююс∙х юўхэ№ юЁЄюяхфшўэр .",
+            "image": "",
+            "price": "670.00",
+            "discount": "0.00",
+            "quantity": 8,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 4,
+        "fields": {
+            "name": "╩єїюээ√щ ёЄюы ё Ёръютшэющ",
+            "slug": "kuhonnyj-stol-s-rakovinoj",
+            "description": "╩єїюээ√щ ёЄюы фы  юсхфр ё тёЄЁюхээющ Ёръютшэющ ш ёЄєы№ ьш.",
+            "image": "",
+            "price": "365.00",
+            "discount": "0.00",
+            "quantity": 12,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 5,
+        "fields": {
+            "name": "─штрэ юс√ъэютхээ√щ",
+            "slug": "divan-obyknovennyj",
+            "description": "─штрэ, юэ цх ёюЇр юс√ъэютхээр , эшўхую яЁшьхўрЄхы№эюую фы  юяшёрэш .",
+            "image": "",
+            "price": "190.00",
+            "discount": "0.00",
+            "quantity": 5,
+            "category": 7
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 6,
+        "fields": {
+            "name": "╨рёЄхэшх",
+            "slug": "rastenie",
+            "description": "╨рёЄхэшх фы  єъЁр°хэш  тр°хую шэЄхЁ№хЁр яюфрЁшЄ ётхцхёЄ№ ш схчь ЄхцэюёЄ№ юсёЄрэютъх.",
+            "image": "",
+            "price": "10.00",
+            "discount": "0.00",
+            "quantity": 8,
+            "category": 9
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 7,
+        "fields": {
+            "name": "╓тхЄюъ ёЄшышчшЁютрээ√щ",
+            "slug": "cvetok-stilizirovannyj",
+            "description": "─шчрщэхЁёъшщ ЎтхЄюъ (тючьюцэю шёъєёёЄтхээ√щ) фы  єъЁр°хэш  шэЄхЁ№хЁр.",
+            "image": "",
+            "price": "15.00",
+            "discount": "0.00",
+            "quantity": 7,
+            "category": 8
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 8,
+        "fields": {
+            "name": "╧ЁшъЁютрЄэ√щ ёЄюышъ 2",
+            "slug": "prikrovatnyj-stolik-2",
+            "description": "╤Єюышъ, фютюы№эю ёЄЁрээ√щ эр тшф, эю яюфїюфшЄ фы  Ёрчьх∙хэш  Ё фюь ё ъЁютрЄ№■.",
+            "image": "",
+            "price": "25.00",
+            "discount": "0.00",
+            "quantity": 16,
+            "category": 6
+        }
+    }
+]
